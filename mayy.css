@@ -1,0 +1,26 @@
+img{
+    size: 50px;
+}
+table {
+    border: 2px;
+    border-color: black;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding-bottom: 30px;
+}
+button:hover {
+    background-color: #2B3467 ;
+    color:#66BFBF;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+button {
+    background-color:#66BFBF;
+    font-size: 16px;
+    padding:12px 26px;
+    border-radius: 8px;
+    border: 2px solid #66BFBF;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin:30px auto 30px auto;
+}

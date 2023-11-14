@@ -1,0 +1,14 @@
+img {
+    height:75%;
+    width: 75%;
+}
+button {
+    background-color:#66BFBF;
+    font-size: 16px;
+    padding:12px 26px;
+    border-radius: 8px;
+    border: 2px solid #66BFBF;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin:30px auto 30px auto;
+}
